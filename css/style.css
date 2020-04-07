@@ -1,0 +1,109 @@
+@charset "utf-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#wrap {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: black;
+    perspective: 400px;
+}
+
+#txt1 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    transform-origin: center;
+    color: #ff0000;
+    font-size: 8em;
+    transition: all 0.2s;
+    mix-blend-mode: screen;
+}
+#txt2 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    transform-origin: center;
+    color: #0000ff;
+    font-size: 8em;
+    transition: all 0.2s;
+    mix-blend-mode: screen;
+}
+#txt3 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    transform-origin: center;
+    color: #00ff00;
+    font-size: 8em;
+    transition: all 0.2s;
+    mix-blend-mode: screen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
